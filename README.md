@@ -4,12 +4,14 @@
 
 >  Automated build with [Travis CI][TRAVIS_CI]
 
-TODO: Description
+##Project goals
+
+[Goals file](.project_docs/Project_goals.md)
 
 ## Project folder overview
 
 ```
-DUMESTRE-HUGDELARAUZE/  # Root directory
+/  # Root directory
 ├── src/                # Contain java sources
 ├── bin/                # Contain class files (generated)
 ├── docs/               # Contain documentation about java sources (generated)
@@ -36,8 +38,10 @@ This project follow this specification for its version tag: `v.X.Y.Z`
 
 ## Authors
 
-*l18dumes* | **DUMESTRE** Lucas  
-*s18hugde* | **HUG DE LARAUZE** Sébastien  
+`l18dumes` | **DUMESTRE** Lucas  
+`s18hugde` | **HUG DE LARAUZE** Sébastien  
+`l18franc` | **Francis** Ludovic  
+`m18barto` | **Bartoli** Mathieu  
 
 
 [TRAVIS_CI]: https://travis-ci.com/SebastienHUGDELARAUZE/SIT213

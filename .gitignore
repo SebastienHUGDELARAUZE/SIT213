@@ -10,3 +10,5 @@ docs/
 # IntelliJ IDEA on mac
 .idea/
 Project.iml
+.DS_Store
+out/
